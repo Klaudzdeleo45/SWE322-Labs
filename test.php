@@ -1,7 +1,7 @@
 <?php
 class SimpleClass
 {
-   public $var1 = 'hello ' . 'world';
+   public $var1 = 'Hello ' . 'World';
    public $var2 = <<<EOD
 
 EOD;
