@@ -12,6 +12,6 @@
 			echo "not correct";
 		}
 		
-		echo "hello";
-		echo "hello too";
+		echo "Hello";
+		echo "Hello You";
     ?>
